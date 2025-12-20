@@ -30,6 +30,4 @@ Markdown<div align="center">
 
 این پروژه یک کار شخصی و اولیه بود که به من کمک کرد تا اصول پایه توسعه بازی موبایل (مانند physics ساده، collision detection، score management و monetization پایه با in-game currency) را تمرین کنم.
 
-**دانلود APK برای تست**:  
-- لینک ۱: https://www.filemail.com/d/znxescgybqbgsgn  
-- لینک ۲: https://uploadnow.io/en/share?utm_source=5g4283y
+**دانلود APK برای تست**: https://drive.google.com/file/d/1HilId9w_oPml97a4o8U4n8Rx3z95VhiH/view?usp=drive_link
