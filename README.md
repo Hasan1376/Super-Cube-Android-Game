@@ -1,4 +1,4 @@
-https://github.com/Hasan1376/Super-Cube-Android-Game/issues/1#issue-3749530827
+<img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/e7b41992-8f13-46ef-a323-017f8208181b" />
 
 # Super-Cube-Android-Game
 This is a casual game that I created years ago, and it was removed from Google because I didn't update it.
