@@ -1,4 +1,12 @@
-<img width="256" height="256" alt="Image" src="https://github.com/user-attachments/assets/e7b41992-8f13-46ef-a323-017f8208181b" />
+Markdown<div align="center">
+
+  <img src="https://github.com/user-attachments/assets/e7b41992-8f13-46ef-a323-017f8208181b" width="256" alt="Super Cube Logo">
+
+  <h1>Super Cube - Android Casual Game</h1>
+
+  <p>یک بازی endless runner ساده و جذاب ساخته‌شده با Unity</p>
+
+</div>
 
 ### Super Cube - Android Casual Game
 
