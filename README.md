@@ -1,11 +1,29 @@
 <img width="256" height="256" alt="Image" src="https://github.com/user-attachments/assets/e7b41992-8f13-46ef-a323-017f8208181b" />
 
-# Super-Cube-Android-Game
-This is a casual game that I created years ago, and it was removed from Google because I didn't update it.
+### Super Cube - Android Casual Game
 
-* I put this game here just for my resume *
+این پروژه یک بازی موبایل casual و endless runner ساده برای پلتفرم اندروید است که چند سال پیش توسعه دادم و برای مدتی در Google Play منتشر شده بود (بعداً به دلیل عدم به‌روزرسانی حذف شد).  
+این بازی را عمدتاً برای **پرتفولیو و رزومه** خودم اینجا قرار دادم تا نمونه‌ای از تجربه‌ام در توسعه بازی‌های موبایل با Unity را نشان بدهد.
 
-this link:
-https://www.filemail.com/d/znxescgybqbgsgn
-or
-https://uploadnow.io/en/share?utm_source=5g4283y
+#### توضیح گیم‌پلی:
+- بازیکن کنترل یک **مکعب (Cube)** را بر عهده دارد که به صورت خودکار به جلو می‌دود.
+- هدف اصلی: عبور از موانع متحرک و ثابت (مانند بلوک‌های قرمز مربعی و موانع های سخت و اسان) .
+- جمع‌آوری **سکه (Coins)** در طول مسیر.
+- با سکه‌های جمع‌شده می‌توان **مکعب را ارتقا (upgrade)** داد (مثلاً تغییر ظاهر، افزایش سرعت).
+- سبک بازی مشابه endless runnerهای محبوب مانند Subway Surfers، اما با تم ساده‌تر و تمرکز روی یک مکعب سه‌بعدی.
+
+#### فناوری‌ها و قابلیت‌های استفاده‌شده:
+- **موتور بازی**: Unity Engine.
+- **زبان برنامه‌نویسی**: C# برای پیاده‌سازی منطق بازی، مدیریت امتیاز، سیستم ارتقا و کنترل ورودی‌ها .
+- **گرافیک و assets**: استفاده از مدل‌های 3D ساده (Cube اصلی و موانع)، particle effects برای trail مکعب، و background procedural برای حس سرعت و بی‌نهایت بودن مسیر.
+- **ویژگی‌های کلیدی پیاده‌سازی‌شده**:
+  - Procedural generation برای ایجاد مسیر و موانع به صورت تصادفی (افزایش replayability).
+  - سیستم ذخیره‌سازی امتیاز و سکه‌ها (با PlayerPrefs).
+  - UI ساده برای منوی اصلی، امتیازدهی، shop ارتقا و game over.
+- **پلتفرم**: ساخته‌شده برای Android (فایل APK موجود برای تست).
+
+این پروژه یک کار شخصی و اولیه بود که به من کمک کرد تا اصول پایه توسعه بازی موبایل (مانند physics ساده، collision detection، score management و monetization پایه با in-game currency) را تمرین کنم.
+
+**دانلود APK برای تست**:  
+- لینک ۱: https://www.filemail.com/d/znxescgybqbgsgn  
+- لینک ۲: https://uploadnow.io/en/share?utm_source=5g4283y
