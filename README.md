@@ -31,3 +31,13 @@ Markdown<div align="center">
 این پروژه یک کار شخصی و اولیه بود که به من کمک کرد تا اصول پایه توسعه بازی موبایل (مانند physics ساده، collision detection، score management و monetization پایه با in-game currency) را تمرین کنم.
 
 **دانلود APK برای تست**: https://drive.google.com/file/d/1HilId9w_oPml97a4o8U4n8Rx3z95VhiH/view?usp=drive_link
+
+<div align="center">
+  <h1> Game Screenshots </h1>
+  
+  <img src="https://github.com/user-attachments/assets/7ec8a41f-283d-4ebb-b97f-16d04e5596c8" width="200" alt="Pollex Screenshot 1">
+  <img src="https://github.com/user-attachments/assets/57d4f43c-0218-4c62-abb2-2cd55b6acda4" width="200" alt="Pollex Screenshot 2">
+  <img src="https://github.com/user-attachments/assets/52434a8d-2629-44fa-93b1-3227deb4852e" width="200" alt="Pollex Screenshot 3">
+  <img src="https://github.com/user-attachments/assets/1eadbf1d-e434-4784-b371-f18c4479b9f1" width="200" alt="Pollex Screenshot 4">
+  
+</div>
