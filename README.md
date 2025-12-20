@@ -35,9 +35,9 @@ Markdown<div align="center">
 <div align="center">
   <h1> Game Screenshots </h1>
   
-  <img src="https://github.com/user-attachments/assets/7ec8a41f-283d-4ebb-b97f-16d04e5596c8" width="200" alt="Pollex Screenshot 1">
-  <img src="https://github.com/user-attachments/assets/57d4f43c-0218-4c62-abb2-2cd55b6acda4" width="200" alt="Pollex Screenshot 2">
-  <img src="https://github.com/user-attachments/assets/52434a8d-2629-44fa-93b1-3227deb4852e" width="200" alt="Pollex Screenshot 3">
-  <img src="https://github.com/user-attachments/assets/1eadbf1d-e434-4784-b371-f18c4479b9f1" width="200" alt="Pollex Screenshot 4">
+  <img src="https://github.com/user-attachments/assets/c6dc5cc7-e5af-451b-a9e7-4e6360f59518" width="200" alt="Pollex Screenshot 1">
+  <img src="https://github.com/user-attachments/assets/1d205186-eddd-4745-8ff6-d024281f002b" width="200" alt="Pollex Screenshot 2">
+  <img src="https://github.com/user-attachments/assets/eb191445-be11-48fe-b116-f30cea80c6b2" width="200" alt="Pollex Screenshot 3">
+  <img src="https://github.com/user-attachments/assets/7d7929b6-cdf9-4cf4-a008-949da5856033" width="200" alt="Pollex Screenshot 4">
   
 </div>
